@@ -1,0 +1,4 @@
+comtypes==1.1.11
+numpy==1.23.1
+pycaw==20220416
+pyserial==3.5
